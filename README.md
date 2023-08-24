@@ -18,4 +18,5 @@ This repository requires a build directory to organize the compiled output. Here
    ./lime
 
 Afterward, you will be able to observe the preprocessed images.
+<img width="1352" alt="截屏2023-08-24 16 15 24" src="https://github.com/ferder1ke/LIME_Neon_Openmp/assets/113079094/6dd34404-403b-4f39-b86e-c238db779150">
 
