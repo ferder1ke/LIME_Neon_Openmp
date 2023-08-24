@@ -11,8 +11,11 @@ This repository requires a build directory to organize the compiled output. Here
 
 2. Navigate to the root directory of this project using the `cd` command:
    ```sh
-   cd path/to/your/project
+   cd path/to/your/Lime_Neon_Openmp
    mkdir build && cd build
    cmake ..
    make
    ./lime
+
+Afterward, you will be able to observe the preprocessed images.
+
