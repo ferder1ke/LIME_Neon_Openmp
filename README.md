@@ -3,6 +3,7 @@
 # How to use?
 
 ‼️Before proceeding with the project setup, it's important to compile the OpenCV, Neon(arm only), and OpenMP libraries to ensure they are properly integrated. 
+
 Setting up Build Directory
 
 This repository requires a build directory to organize the compiled output. Here's how you can set it up using the terminal:
